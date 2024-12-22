@@ -61,23 +61,23 @@
 
 ## ✔️ 시퀀스 다이어그램
 
-[시퀀스 다이어그램](https://github.com/AIN-T/tiggle-backend/wiki/%EC%8B%9C%ED%80%80%EC%8A%A4-%EB%8B%A4%EC%9D%B4%EC%96%B4%EA%B7%B8%EB%9E%A8)
+**[[Wiki]시퀀스 다이어그램](https://github.com/AIN-T/tiggle-backend/wiki/%EC%8B%9C%ED%80%80%EC%8A%A4-%EB%8B%A4%EC%9D%B4%EC%96%B4%EA%B7%B8%EB%9E%A8)**
 
 ## ✔️ 성능 개선 테스트
 
-[성능 개선 테스트](https://github.com/AIN-T/tiggle-backend/wiki/%EC%84%B1%EB%8A%A5-%EA%B0%9C%EC%84%A0)
+**[[Wiki]성능 개선 테스트](https://github.com/AIN-T/tiggle-backend/wiki/%EC%84%B1%EB%8A%A5-%EA%B0%9C%EC%84%A0)**
 
 ## ✔️ 코드 컨벤션
 
-[코드 컨벤션](https://github.com/AIN-T/tiggle-backend/wiki/%EC%BD%94%EB%93%9C-%EC%BB%A8%EB%B2%A4%EC%85%98)
+**[[Wiki]코드 컨벤션](https://github.com/AIN-T/tiggle-backend/wiki/%EC%BD%94%EB%93%9C-%EC%BB%A8%EB%B2%A4%EC%85%98)**
 
 ## ✔️ 시스템 아키텍처
 
-[시스템 아키텍처](https://github.com/AIN-T/tiggle-backend/wiki/%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98)
+**[[Wiki]시스템 아키텍처](https://github.com/AIN-T/tiggle-backend/wiki/%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98)**
 
 ## ✔️ 소프트웨어 아키텍처
 
-[소프트웨어 아키텍처](https://github.com/AIN-T/tiggle-backend/wiki/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98)
+**[[Wiki]소프트웨어 아키텍처](https://github.com/AIN-T/tiggle-backend/wiki/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98)**
 
 ## 🔍 기능 테스트
 
