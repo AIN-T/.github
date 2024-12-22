@@ -56,7 +56,10 @@
 <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white" alt="GitHub"/>
 <br>
 
-## ✔️ API 명세서
+
+## 📄 API 명세서 바로가기
+
+**[Tiggle API 명세서](https://tropical-ferry-82d.notion.site/Tiggle-API-6bfe0e10c9f64c8982ed8f4ac0840d7d)**
 
 
 ## ✔️ 시퀀스 다이어그램
